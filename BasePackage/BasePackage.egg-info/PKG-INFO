@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: BasePackage
+Version: 0.1
+Summary: Hello world enterprise edition
+Home-page: https://github.com/primatrix/base_package_test
+Author: primatrix
+Author-email: pritam.parija@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: pip,linode,example
+Platform: UNKNOWN
